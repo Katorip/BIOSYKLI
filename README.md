@@ -1,9 +1,15 @@
-The website commissioned by LAB University of Applied Sciences for the BIOSYKLI - Circular Bioeconomy in Päijät-Häme Region project.
+A website, commissioned by LAB University of Applied Sciences, for the BIOSYKLI - Circular Bioeconomy in Päijät-Häme Region project.
 
 React
+- Components
+- Styled Components
 
 Main page
 ![2022-10-18](https://user-images.githubusercontent.com/49474727/196512064-594d5f4d-0bc7-46d6-b307-6b6116d975aa.png)
+
+
+Design and art: Oona Rouhiainen
+Programming: Katri Putkonen
 
 -------
 
