@@ -9,6 +9,7 @@ Main page
 
 
 Design and art: Oona Rouhiainen
+
 Programming: Katri Putkonen
 
 -------
