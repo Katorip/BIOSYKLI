@@ -1,0 +1,217 @@
+{
+    "headerbuttons": {
+        "1": "HOME",
+        "2": "ABOUT",
+        "3": "CONTACT"
+    },
+
+    "sidenav": {
+        "1": "BIOCYCLE:"
+    },
+
+    "welcomebox": {
+        "1": "Welcome!"
+    },
+
+    "popup": {
+        "Page1": {
+            "head": "Yhteistyöverkostot",
+            "text": "Kiertotaloutta edistetään yhteistyöllä ja verkostoitumisella."
+        },
+
+        "Page2": {
+            "head": "Biotalous",
+            "text": "Biotaloustekstiä tähän"
+        },
+
+        "Page3": {
+            "head": "Energia",
+            "text": "Energiatekstiä tähän"
+        },
+
+        "Page4": {
+            "head": "Uudet palvelut",
+            "text": "Uudet palvelut tekstiä tähän"
+        },
+
+        "Page5": {
+            "head": "Edelläkävijyys",
+            "text": "Edelläkävijyystekstiä tähän"
+        },
+        "Fazer": {
+            "head": "Fazerin ksylitolitehdas",
+            "text": "Kauramyllyn sivutuotteista ksylitolia ja lähienergiaa."
+        },
+        "Askonalue": {
+            "head": "Askonalue",
+            "text": "Tekstiä tähän"
+        },
+        "Yhteistyo": {
+            "head": "Yhteistyöverkostot",
+            "text": "Kiertotaloutta edistetään yhteistyöllä ja verkostoitumisella."
+        },
+        "Niemicampus": {
+            "head": "NiemiCampuksen testi- ja pilotointiympäristöt",
+            "text": "Uudet laitteistot edistävät materiaalien kierrätysmahdollisuuksia."
+        },
+        "Anttilanmaki": {
+            "head": "Anttilanmäki-Kittelän asukasyhdistys",
+            "text": "Arjen kiertotalouspalveluita."
+        },
+        "Kaupunkipyorat": {
+            "head": "Kaupunkipyöräjärjestelmä",
+            "text": "Kestävää liikkumista edistetään yhteiskäyttöpyörillä."
+        },
+        "Havikkijaakaappi": {
+            "head": "Hävikkijääkaappi",
+            "text": "Hävikkiruokaa jaetaan yhteiskäyttöjääkaapin kautta."
+        },
+        "Tavaralainaamot": {
+            "head": "Tavaralainaamot",
+            "text": "Lainaamot edistävät tavaroiden yhteiskäyttöä."
+        },
+        "Tilavuokra": {
+            "head": "Kaupunkien tilojen ja laitteiden vuokrauspalvelut",
+            "text": "Vuokrauspalveluilla tilat saadaan tehokkaammin käyttöön."
+        },
+        "Kaupunkiviljely": {
+            "head": "Kaupunkiviljely",
+            "text": "Yhteisöllistä lähiruuan viljelyä."
+        },
+        "Energiahanke": {
+            "head": "Energiatehokkuutta parantavat hankkeet",
+            "text": "Tekstiä tähän"
+        },
+        "Lahtienergia": {
+            "head": "Kymijärvi III, Lahti Energian biolämpölaitos",
+            "text": "Bioenergialla vähennetään merkittävästi kaukolämmön hiilidioksidipäästöjä."
+        },
+        "Paastokauppa": {
+            "head": "Henkilökohtainen päästökauppa",
+            "text": "Sovellus kannustaa siirtymään ympäristöystävälliseen liikkumiseen."
+        },
+        "Kimppamatkat": {
+            "head": "Kimppatyömatkat",
+            "text": "Sovelluksen avulla kimppatyömatkojen järjestäminen helpommaksi."
+        },
+        "Labio": {
+            "head": "LABIO ja Gasum",
+            "text": "Suomen suurin liikennebiokaasun tuotanto- ja jalostuslaitos."
+        },
+        "Viljaklusteri": {
+            "head": "Päijät-Hämeen Viljaklusteri",
+            "text": "Vilja-alan yhteistyöverkosto paikallisille viljelijöille ja yrityksille."
+        },
+        "Hartwall": {
+            "head": "Hartwall – St1",
+            "text": "Biopolttoainetta elintarviketeollisuuden sivuvirroista."
+        },
+        "St1": {
+            "head": "Hartwall – St1",
+            "text": "Biopolttoainetta elintarviketeollisuuden sivuvirroista."
+        },
+        "Tarpaper": {
+            "head": "Kujalan jätekeskus",
+            "text": "Suomen merkittävin kierrätysalan yrityskeskittymä"
+        },
+        "PHJ": {
+            "head": "Kujalan jätekeskus",
+            "text": "Suomen merkittävin kierrätysalan yrityskeskittymä"
+        },
+        "Lahtiaqua": {
+            "head": "Lahtiaqua",
+            "text": "Tekstiä tähän"
+        }
+    },
+
+    "about": {
+        "head": "About",
+        "text": "Tähän tulee yleistietoja projektista"
+    },
+
+    "contact": {
+        "head": "Contact",
+        "text": "Tähän tulee yhteystietoja"
+    },
+
+    "linktext": "Read more",
+    "links": "More info:",
+
+    "materiaalikierrot": {
+        "head1": "NiemiCampuksen testi- ja pilotointiympäristöt",
+        "boldtext1": "\"Uudet laitteistot edistävät materiaalien kierrätysmahdollisuuksia.\"",
+        "text1": "LAB-ammattikorkeakoulun hallinnoimassa Kiemura-hankkeessa kehitetty muovien pesu- ja kierrätyslinjasto puhdistaa ja erottelee muovisivuvirtojen materiaalia. Yksinkertainen ja edullinen laitteisto toimii energia- ja resurssitehokkaasti sekä on helposti siirrettävissä.",
+        "litext1": "Tekstiilien tunnistus- ja lajittelulaitteisto",
+        "head2": "Yhteistyöverkostot",
+        "boldtext2": "\"Kiertotaloutta edistetään yhteistyöllä ja verkostoitumisella.\"",
+        "text21": "New Plastics Center eli NPC on yrityslähtöinen muovien osaamisverkosto, joka on perustettu vuonna 2019. Tavoitteena on edistää biomateriaali-innovaatioita ja tuotekehitystä Suomessa sekä vahvistaa yhteistyötä ja verkostoitumista, joita tarvitaan uusien materiaalien kehittämiseen ja käyttöönottoon. Taustalla on EU:n vuonna 2018 julkaisema muovistrategia, jossa painotetaan kierrätettävien ja biohajoavien muovien kehittämisen tärkeyttä. NPC:n ovat perustaneet Muovipoli Oy ja Muoviteollisuus ry.",
+        "text22": "Tekstiilin keräys, lajittelu ja hyödyntämisverkosto eli Telaketju on yhteistyöverkosto, joka edistää tekstiilien kestävää tuotantoa, käyttöä ja kierrätystä. Laajaan verkostoon kuuluu erikokoisia yrityksiä, yhdistyksiä ja kaupunkeja."
+    },
+
+    "biotalous": {
+        "head1": "LABIO ja Gasum",
+        "boldtext1": "\"Suomen suurin liikennebiokaasun tuotanto- ja jalostuslaitos.\"",
+        "text1": "Kujalan jätekeskuksen yhteydessä sijaitsee Suomen suurin liikennekäyttöön tarkoitetun biokaasun tuotanto- ja jalostuslaitos, joka kuuluu LABIO Oy:lle. Laitoksen tuottama biokaasu syötetään Gasumin kaasuverkkoon jaettavaksi. Mädätysjäännös käsitellään LABIO Oy:n kompostointilaitoksella, jonka jälkeen se päätyy lannoitekäyttöön. Kompostoinnissa syntyvä lämpö otetaan talteen ja hyödynnetään edelleen biokaasulaitoksella.",
+        "head2": "Päijät-Hämeen Viljaklusteri",
+        "boldtext2": "\"Vilja-alan yhteistyöverkosto paikallisille viljelijöille ja yrityksille.\"",
+        "text2": "Päijät-Hämeen Viljaklusteri on vilja-alan yhteistyöverkosto, jossa on mukana paikallisia viljelijöitä ja teollisuusyrityksiä. Se on perustettu vuonna 2003 edistämään yritysten ja viljelijöiden verkottumista, tukemaan yhteistyötä ja kohottamaan elintarvikealan profiilia. Klusterissa on erikseen leipäketju sekä olut- ja juomaketju. Leipäketjussa on mukana noin 500 viljelijää ja se työllistää noin 1200 henkilöä. Olut- ja juomaketjuun kuuluvien viljelijöiden määrä on noin 450 ja sitä kautta työllistyy noin 1000 henkilöä.",
+        "head3": "Kujalan jätekeskus",
+        "boldtext3": "\"Suomen merkittävin kierrätysalan yrityskeskittymä\"",
+        "text3": "Lahden seudun kuntien omistama jätehuoltoyhtiö Päijät-Hämeen Jätehuolto Oy (PHJ) tunnetaan jätehuollon edelläkävijänä Suomessa. Yli 95 % alueen yhdyskuntajätteestä saadaan hyötykäyttöön. PHJ:n jätteenkäsittelypaikasta, Kujalan jätekeskuksesta, on muodostunut Suomen merkittävin kierrätysalan yrityskeskittymä. Esimerkki alueella toimivasta cleantech-yrityksestä on tanskalais-suomalainen kattohuovan ja purkubitumin kierrätykseen erikoistunut Tarpaper Recycling Finland Oy, joka aloitti toimintansa Kujalassa vuonna 2015. Kierrätyslaitoksella jalostetaan purkubitumia ja kattohuopatehtaiden ylijäämämateriaaleja. Kierrätysraaka-aineista valmistettu murske ohjataan asfalttiteollisuuden käyttöön. Yritys on ainoa laatuaan Suomessa. Kujalan alueella toimii myös NCC Roads Oy:n asfalttiasema, joka hyödyntää raaka-aineena kierrätettyä bitumirouhetta.",
+        "head4": "Fazerin ksylitolitehdas",
+        "boldtext4": "\"Kauramyllyn sivutuotteista ksylitolia ja lähienergiaa.\"",
+        "text4": "Lahdessa sijaitsevalla Fazerin uudella tehtaalla aletaan valmistaa ksylitolia kaurankuoresta, jota syntyy kauramyllyn sivutuotteena suuria määriä. Valmistuksessa käytetään uudenlaista patentoitua teknologiaa. Ksylitolia voidaan käyttää monipuolisesti raaka-aineena elintarvike-, kosmetiikka- ja lääketeollisuudessa. Ksylitolitehdas sijaitsee myllyn vieressä, joten kuljetusmatka on minimoitu. Samalle tontille rakennetaan myös biolämpölaitos, jonka polttoaineena käytetään pääosin tehtaalta tulevaa kaurankuorimassaa. Tehtaan toiminta käynnistyy syksyllä 2020 ja ksylitolia on saatavilla alkuvuodesta 2021. Investoinnin arvo on 40 miljoonaa €, ja uusia työpaikkoja syntyy sen ansiosta noin 30.",
+        "head5": "Hartwall – St1",
+        "boldtext5": "\"Biopolttoainetta elintarviketeollisuuden sivuvirroista.\"",
+        "text5": "Hartwallin ja St1:n yhteistyö on hyvä esimerkki kiertotalousperiaatetta toteuttavasta teollisesta symbioosista. St1 Biofuels Oy:n bioetanolilaitos on integroitu Hartwallin virvoitusjuomatehtaaseen, jonka prosessijätteestä ja hukkajuomista valmistetaan bioetanolia liikennepolttoaineeksi. Tämän prosessin lopputuotteena syntyy bioetanolin lisäksi vettä ja mäskiä, joka käytetään eläinten rehuksi. St1 hyödyntää tuotannossaan myös lähiseudun kaupoista, leipomoista sekä Lahden Viljaklusterin kautta saatavia raaka-aineita."
+    },
+
+    "energia": {
+        "head1": "Kymijärvi III, Lahti Energian biolämpölaitos",
+        "boldtext1": "\"Bioenergialla vähennetään merkittävästi kaukolämmön hiilidioksidipäästöjä.\"",
+        "text1": "Lahti Energia panostaa toiminnassaan ympäristöystävällisyyteen ja uusiutuvan energian tuottamiseen. Kivihiilen käytöstä energiantuotannossa on luovuttu kokonaan vuonna 2019 uuden biolämpölaitoksen valmistumisen myötä. Kymijärvi III käyttää pääpolttoaineenaan sertifioitua biomassaa ja sen kaukolämpöteho on noin 190 MW. Uuden lämpölaitoksen ansiosta Lahti Energian hiilidioksidipäästöt vähenevät jopa 600 000 tonnia vuodessa.",
+        "head2": "Energiatehokkuutta parantavat hankkeet",
+        "text21": "Päijät-Häme on yksi Hinku-maakunnista, jotka ovat sitoutuneet vuoteen 2030 mennessä vähentämään kasvihuonekaasupäästöjään 80 % verrattuna vuoden 2007 tasoon. Energiatehokkuuden parantamisella on merkittävä vaikutus tavoitteeseen pääsemisessä. Tätä edistetään mm. Vähähiilisiä ratkaisuja korjausrakentamiseen -hankkeessa, jossa selvitetään mahdollisuuksia alentaa olemassa olevan rakennuskannan energiankulutusta ja ilmastopäästöjä kustannustehokkaasti. Energiatehokkuutta parannetaan alueella myös kansainvälisten hankkeiden kautta.",
+        "text22": "LAB-ammattikorkeakoulu on osatoteuttajana RESINDUSTRY – Policies for Renewable Energy Sources in Industry -hankkeessa, jonka tavoitteena on energiaomavaraisuuden parantaminen EU:n teollisuussektorilla lisäämällä uusiutuvien energialähteiden käyttöä. Yritysten energiatehokkuuden parantamiseen tähtäävässä SME-POWER-hankkeessa Suomea edustaa Heinolan kaupunki. Kummassakin hankkeessa on mukana partnereita seitsemästä eri maasta ja rahoitus tulee Interreg Europen kautta.",
+        "head3": "Henkilökohtainen päästökauppa",
+        "boldtext3": "\"Sovellus kannustaa siirtymään ympäristöystävälliseen liikkumiseen.\"",
+        "text31": "Lahdessa kaupunkilaisten kestävää liikkumista edistetään CitiCAP Citizens’ cap-and-trade co-created -hankkeessa, jossa suunnitellaan ja toteutetaan mobiilisovelluksella toimiva henkilökohtainen päästökauppa. Sovellus tunnistaa liikkumismuodon ja palkitsee käyttäjän virtuaalieuroilla vähäpäästöisemmän vaihtoehdon valitsemisesta. Tienatuilla euroilla voi ostaa esimerkiksi bussilippuja. Sovellus on ladattavissa Android- ja IoS-puhelimiin App Storessa ja Google Playssa.",
+        "text32": "Osana hanketta toteutetaan myös älykäs pyörätie testialustaksi erilaisille kestävää liikkumista edistäville älyratkaisuille ja palveluille. Hanketta ovat toteuttamassa Lahden kaupungin lisäksi kaupungin asukkaat, LUT-yliopisto, LAB-ammattikorkeakoulu, LADEC ja viisi liikkumisen alalla toimivaa yritystä.",
+        "head4": "Kimppatyömatkat",
+        "boldtext4": "\"Sovelluksen avulla kimppatyömatkojen järjestäminen helpommaksi.\"",
+        "text4": "Kimppakyyti on niin talouden kuin ympäristön kannalta yksityisautoilua kestävämpi vaihtoehto liikkumiseen. Se on myös hyvä esimerkki jakamistalouden malleista. Lahden kaupunki pilotoi keväällä 2020 PiggyBaggy -sovellusta, joka helpottaa kimppatyömatkojen järjestämistä. Maksuttoman palvelun kautta voi joko tarjota tai pyytää kyytiä. Turvallisuus on huomioitu edellyttämällä kirjautumista ja vahvaa tunnistautumista, jotta tarkemmat tiedot tulevat näkyviin ja kyydistä voidaan sopia."
+    },
+
+    "share": {
+        "head1": "Kaupunkien tilojen ja laitteiden vuokrauspalvelut",
+        "boldtext1": "\"Vuokrauspalveluilla tilat saadaan tehokkaammin käyttöön.\"",
+        "text1": "Lahden kaupunki vuokraa monia erilaisia tiloja mm. kulttuuritapahtumiin, kokoontumiseen ja liikuntakäyttöön. Lisätietoja vuokrattavista tiloista ja yhteyshenkilöistä on kaupungin koottu nettisivuille. Heinolan kaupungin Spotti tarjoaa maksutonta etätyötilaa. Hyvin varustelluissa kokous- ja ryhmätyötiloissa on käytettävissä uusinta digitaalista kokoustekniikkaa ja ilmaiset verkkopalvelut. Tilat ovat vuokrattavissa kaupungin sähköisen varauspalvelun kautta.",
+        "head2": "Tavaralainaamot",
+        "boldtext2": "\"Lainaamot edistävät tavaroiden yhteiskäyttöä.\"",
+        "text21": "Hollolassa Saaranlähteen omakotiyhdistyksellä on käytössä tavaralainaamo, joka tarjoaa yhdistyksen jäsenille yhteiskäyttöön puutarhavälineitä, radonmittarin ja veneen.",
+        "text22": "Lahdessa Ankkurin alueella otettiin toukokuussa 2020 käyttöön roskapihtilainaamo. Uimarannalla sijaitsevasta telineestä voi lainata työkalun ja roskapussin roskien keräämistä varten. Lainaamon on perustanut Ankkurin asukasyhdistys Lahden ympäristöpääkaupunki -hankkeen avustuksella.",
+        "text23": "Lahden kaupunki vuokraa laitteita",
+        "text24": "Asikkalaan tulossa asukkaiden tavaralainaamo.",
+        "head3": "Hävikkijääkaappi",
+        "boldtext3": "\"Hävikkiruokaa jaetaan yhteiskäyttöjääkaapin kautta.\"",
+        "text3": "Asikkalassa sijaitseva Vääksyn olkkari -yhteisökahvila ylläpitää hävikkijääkaappia, jonne asukkaat voivat tuoda ylimääräiseksi jääneitä elintarvikkeita. Vaatimuksena on, että paketti on avaamaton ja päiväystä on vielä jäljellä. Ruuat ovat vapaasti kaikkien haettavissa, erityisesti työttömät ja opiskelijat ovat hyödyntäneet palvelua.",
+        "head4": "Kaupunkiviljely",
+        "boldtext4": "\"Yhteisöllistä lähiruuan viljelyä.\"",
+        "text41": "Kaupunkiviljely ja yhteisöllinen ruuan kasvatus ovat hyviä esimerkkejä jakamistalouden malleista. Lahden Ruokaosuuskunta on perustettu vuonna 2013. Tarkoituksena on tuottaa osuuskunnan jäsenille yhteisöllisesti puhdasta ja maukasta ruokaa luontoa kunnioittaen. Mukaan pääsee maksamalla liittymismaksun ja osuusmaksun, jonka vastineeksi saa osuuden pellon ja kasvihuoneen sadosta. Osuuskunnalla on palkattu puutarhuri, mutta jäsenet pääsevät myös osallistumaan talkoisiin.",
+        "text42": "Kotiniemen siirtolapuutarhayhdistys on perustettu vuonna 1984. Yhdistys on vuokrannut Lahden kaupungilta maa-alueen, jolla on 85 mökkiä viljelypalstoineen ja yhteiskäyttöön tarkoitetut alueet. Mökkejä voivat ostaa lahtelaiset, joilla ei ole omaa mökkiä muualla.",
+        "text43": "Lahden palstaviljely vuokraa kaupungin omistamia viljelypalstoja asukkaille. Yhden aarin alueen saa vuokrattua 45 eurolla. Palsta on vuokrattavissa kerrallaan yhdeksi kaudeksi, joka päättyy syyskuun lopussa. Aloitusajankohta vaihtelee vuosittain riippuen maanmuokkaustöiden aikataulusta. Ajankohtainen tilanne on nähtävissä Facebook-sivuilla.",
+        "head5": "Kaupunkipyöräjärjestelmä",
+        "boldtext5": "\"Kestävää liikkumista edistetään yhteiskäyttöpyörillä.\"",
+        "text51": "Asikkalassa Kalkkisten Seudun kyläyhdistys tarjoaa kyläpyöriä maksutta mm. turistien ja veneilijöiden käyttöön. Kyläaktiivit huolehtivat pyörien palautumisesta ja tarvittaessa myös korjaamisesta. Palvelu otettiin käyttöön vuonna 2019 ja se on toiminut hyvin.",
+        "text52": "Lahdessa kehitteillä, käyttöön v. 2021.",
+        "text53": "Hollolassa kuntapyörät käyttöön kesällä 2020.",
+        "head6": "Anttilanmäki-Kittelän asukasyhdistys",
+        "boldtext6": "\"Arjen kiertotalouspalveluita.\"",
+        "text6": "Lahdessa toimiva Anttilanmäki-Kittelän asukasyhdistys ry on vaalinut ja kehittänyt perinteikästä ympäristöään vuodesta 1957. Yhdistys on mukana Sitran rahoittamassa Maailmanjalotus-hankkeessa, jossa kehitetään arjen kiertotalouspalveluita. Jakamistalouden edistämiseksi yhdistys on mm. perustanut lainaamon, jonka kautta voi lainata yhdistyksen omistamia tavaroita. Parhaillaan on kehitteillä yhteisöalusta, jonka kautta tulevat lainattavaksi myös asukkaalta asukkaalle tarvikkeet, tilat ja osaaminen."
+    },
+
+    "pioneering": {
+        "head1": "Askonalue",
+        "text1": "Renor Oy:n omistama Askonalue on Lahdessa sijaitseva historiallinen teollisuusalue, josta ollaan kehittämässä modernia kaupunginosaa monipuoliseen käyttöön. Visiona on uudenlainen asumisen, työn ja vapaa-ajanpalveluiden keskittymä, jossa resurssitehokkuus ja kiertotalous on otettu huomioon jo suunnitteluvaiheessa. Saneerauksen yhteydessä on parannettu rakennusten energiatehokkuutta mm. varustamalla ilmastointi lämmöntalteenottojärjestelmällä ja automatisoimalla lämmitys. Rakentamistapaohjeesta taas löytyy esimerkkejä aurinkopaneelien sijoittelusta rakennusten katolle. Lisäksi Askonalueella on hyödynnetty geoenergiaa rakennusten jäähdytyksessä jo vuosien ajan."  
+    }
+}

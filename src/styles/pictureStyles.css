@@ -1,0 +1,14 @@
+#Page1 {
+    width: 9%;
+    position: absolute;
+    top: 80%;
+    left: 59.7%;
+    display: block;
+    transition: transform 0.3s;
+    cursor: pointer;
+}
+
+#Page1 :hover {
+    transform: scale(1.5);
+    transition-timing-function: ease-in-out;
+}
